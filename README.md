@@ -4,7 +4,7 @@
 A small card-based game prototype implemented in Unity.
 The project demonstrates a turn-based flow, card placement, simple combat logic, animation via a custom tween package, and a lightweight UI.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
 ---
 
@@ -111,7 +111,7 @@ Defines:
 * Menu and restart actions
 
 
-## 🔗 Related Repositories
+## Related Repositories
 
 * Tween package (Between):
   [https://github.com/spikethehedgehogdev/BetweenRedKit](https://github.com/spikethehedgehogdev/BetweenRedKit)
@@ -124,4 +124,4 @@ Defines:
 
 ---
 
-**Ilias Abdullin** ([@spikethehedgehogdev](https://github.com/spikethehedgehogdev))
+Ilias Abdullin — ([@spikethehedgehogdev](https://github.com/spikethehedgehogdev))
