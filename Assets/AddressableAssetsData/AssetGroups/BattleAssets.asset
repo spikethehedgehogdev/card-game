@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: BattleAssets
+  m_EditorClassIdentifier: 
+  m_GroupName: BattleAssets
+  m_GUID: 5ae47432eaba5a34e8d97d0da32a71cb
+  m_SerializeEntries:
+  - m_GUID: 00c0c9042c94a5b44ac92c6965de1442
+    m_Address: atlas-battle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0127d301b9e78984cac88488e4c521ea
+    m_Address: TableMaterial
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b18d40378d033e43a9f6e200790f925
+    m_Address: CardShirtTexture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32f0d1df4e039d342a8e921adcea001e
+    m_Address: Indico SDF
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4901f5669196e91438f776b6fc24935d
+    m_Address: BattleFlowConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60f13603610185c4d906af549da30c0b
+    m_Address: BoardConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 883c2b4a6608dae4488217191e4b4189
+    m_Address: TableTexture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9111f63134c3c0a4791bb0581946e5be
+    m_Address: bg_battle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 958b08095f664524c87be289cbfa151d
+    m_Address: frame-score
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b010317fe03952540874e2242591fea8
+    m_Address: HandConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2241bcb4447b564ab944d4b7222d62b
+    m_Address: CardShirtMaterial
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b452a4f3e2883de47a854fd22f26b840
+    m_Address: Indico
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cab57dd19c98d5045bc724d1af8b13e4
+    m_Address: CardUnitsMaterial
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6e68615ad950114ca1b0ee0222d4aa9
+    m_Address: TableModel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efef2f0b274861b4fab2147e1ca23b08
+    m_Address: UnitsTexture
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8bd6d0ecc06995498128a3d72f62dc7
+    m_Address: CardModel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e5f2a46383f67164db7c0bb2a78e4776, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 862520d8e197ccc41855304e0b0a17c5, type: 2}
+    - {fileID: 11400000, guid: f022f6cf662054f4999b93af5e248248, type: 2}

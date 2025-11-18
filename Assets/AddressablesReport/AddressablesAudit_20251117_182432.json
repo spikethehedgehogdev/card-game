@@ -1,0 +1,51 @@
+{
+    "generatedAt": "2025-11-17 18:24:32",
+    "groups": [
+        {
+            "name": "UI",
+            "entries": []
+        },
+        {
+            "name": "Environment",
+            "entries": []
+        },
+        {
+            "name": "Core",
+            "entries": [
+                {
+                    "path": "Assets/Scenes/Boot.unity",
+                    "key": "Boot",
+                    "type": "SceneAsset",
+                    "size": "3,5 KB"
+                },
+                {
+                    "path": "Assets/Sprites/atlas-menu.png",
+                    "key": "atlas-menu",
+                    "type": "Texture2D",
+                    "size": "1,7 MB"
+                },
+                {
+                    "path": "Assets/Scenes/Menu.unity",
+                    "key": "Menu",
+                    "type": "SceneAsset",
+                    "size": "27,6 KB"
+                }
+            ]
+        },
+        {
+            "name": "Characters",
+            "entries": []
+        },
+        {
+            "name": "Levels",
+            "entries": [
+                {
+                    "path": "Assets/Scenes/Battle.unity",
+                    "key": "Battle",
+                    "type": "SceneAsset",
+                    "size": "85,5 KB"
+                }
+            ]
+        }
+    ]
+}

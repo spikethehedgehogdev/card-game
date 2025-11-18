@@ -1,0 +1,89 @@
+{
+    "generatedAt": "2025-11-17 18:24:46",
+    "duplicates": [
+        {
+            "asset": "Assets/Sprites/atlas-menu.png",
+            "usedBy": [
+                "Assets/Sprites/atlas-menu.png",
+                "Assets/Scenes/Menu.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.inputsystem/InputSystem/Actions/InputActionAsset.cs",
+            "usedBy": [
+                "Assets/Scenes/Menu.unity",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.inputsystem/InputSystem/Editor/Icons/InputSystemUIInputModule@64.png",
+            "usedBy": [
+                "Assets/Scenes/Menu.unity",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.inputsystem/InputSystem/Editor/AssetImporter/InputActionImporter.cs",
+            "usedBy": [
+                "Assets/Scenes/Menu.unity",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.ugui/Runtime/UGUI/UI/Core/Layout/CanvasScaler.cs",
+            "usedBy": [
+                "Assets/Scenes/Menu.unity",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.ugui/Runtime/UGUI/UI/Core/GraphicRaycaster.cs",
+            "usedBy": [
+                "Assets/Scenes/Menu.unity",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.ugui/Runtime/UGUI/UI/Core/Button.cs",
+            "usedBy": [
+                "Assets/Scenes/Menu.unity",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.ugui/Runtime/UGUI/EventSystem/EventSystem.cs",
+            "usedBy": [
+                "Assets/Scenes/Menu.unity",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions",
+            "usedBy": [
+                "Assets/Scenes/Menu.unity",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.ugui/Runtime/UGUI/UI/Core/Image.cs",
+            "usedBy": [
+                "Assets/Scenes/Menu.unity",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.inputsystem/InputSystem/Actions/InputActionReference.cs",
+            "usedBy": [
+                "Assets/Scenes/Menu.unity",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.inputsystem/InputSystem/Plugins/UI/InputSystemUIInputModule.cs",
+            "usedBy": [
+                "Assets/Scenes/Menu.unity",
+                "Assets/Scenes/Battle.unity"
+            ]
+        }
+    ]
+}

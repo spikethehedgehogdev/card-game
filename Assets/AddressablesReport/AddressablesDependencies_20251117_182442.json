@@ -1,0 +1,2186 @@
+{
+    "generatedAt": "2025-11-17 18:24:42",
+    "assets": [
+        {
+            "asset": "Assets",
+            "dependencies": [
+                "Assets"
+            ]
+        },
+        {
+            "asset": "Assets/Sprites/atlas-battle.png",
+            "dependencies": [
+                "Assets/Sprites/atlas-battle.png"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/buildTransitive/netcoreapp3.1",
+            "dependencies": [
+                "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/buildTransitive/netcoreapp3.1"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Cards/CardCollision.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Cards/CardCollision.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/buildTransitive/net462/_._",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/buildTransitive/net462/_._"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/buildTransitive/netcoreapp3.1/_._",
+            "dependencies": [
+                "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/buildTransitive/netcoreapp3.1/_._"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset",
+            "dependencies": [
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptFastMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMPro.cginc",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMPro.cginc"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+            "dependencies": [
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedMode.cs"
+            ]
+        },
+        {
+            "asset": "Assets/InputControls.cs",
+            "dependencies": [
+                "Assets/InputControls.cs"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Textures",
+            "dependencies": [
+                "Assets/AddressableAssets/Textures"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/R3.1.3.0/lib/netstandard2.1/R3.xml",
+            "dependencies": [
+                "Assets/Packages/R3.1.3.0/lib/netstandard2.1/R3.xml"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Bootstrap.cs",
+            "dependencies": [
+                "Assets/Scripts/Bootstrap.cs"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroups/Environment.asset",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedPlayMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Core.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/UI.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Levels.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/BundledAssetGroupSchema.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroup.cs",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/ContentUpdateGroupSchema.cs",
+                "Assets/AddressableAssetsData/AddressableAssetSettings.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetSettings.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptFastMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Environment.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroupTemplate.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Characters.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/PACKAGE.md",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/PACKAGE.md"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Sprites",
+            "dependencies": [
+                "Assets/TextMesh Pro/Sprites"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_ContentUpdateGroupSchema.asset",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedPlayMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Core.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/UI.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Levels.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/BundledAssetGroupSchema.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroup.cs",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/ContentUpdateGroupSchema.cs",
+                "Assets/AddressableAssetsData/AddressableAssetSettings.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetSettings.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptFastMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Environment.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroupTemplate.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Characters.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Editor/AddressablesAudit.cs",
+            "dependencies": [
+                "Assets/Scripts/Editor/AddressablesAudit.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/buildTransitive/netcoreapp2.0/Microsoft.Bcl.TimeProvider.targets",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/buildTransitive/netcoreapp2.0/Microsoft.Bcl.TimeProvider.targets"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Shared/Math",
+            "dependencies": [
+                "Assets/Scripts/Shared/Math"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Materials/Table.mat",
+            "dependencies": [
+                "Assets/AddressableAssets/Materials/Table.mat",
+                "Assets/AddressableAssets/Textures/table.png",
+                "Assets/AddressableAssets/Shaders/Unlit.shader"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Framework/Services",
+            "dependencies": [
+                "Assets/Scripts/Framework/Services"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/lib/netstandard2.0/Microsoft.Bcl.TimeProvider.xml",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/lib/netstandard2.0/Microsoft.Bcl.TimeProvider.xml"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/THIRD-PARTY-NOTICES.TXT",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/THIRD-PARTY-NOTICES.TXT"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Shared/Math/Beizer.cs",
+            "dependencies": [
+                "Assets/Scripts/Shared/Math/Beizer.cs"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Resources/Sprite Assets",
+            "dependencies": [
+                "Assets/TextMesh Pro/Resources/Sprite Assets"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/buildTransitive/net462/_._",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/buildTransitive/net462/_._"
+            ]
+        },
+        {
+            "asset": "Assets/Sprites/background_battle.png",
+            "dependencies": [
+                "Assets/Sprites/background_battle.png"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Flow/Dealer.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Flow/Dealer.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/useSharedDesignerContext.txt",
+            "dependencies": [
+                "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/useSharedDesignerContext.txt"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Hand/BezierCurve.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Hand/BezierCurve.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Cards/CardFactory.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Cards/CardFactory.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Shared/Generated/Scenes.cs",
+            "dependencies": [
+                "Assets/Scripts/Shared/Generated/Scenes.cs"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Shared/Enum/Side.cs",
+            "dependencies": [
+                "Assets/Scripts/Shared/Enum/Side.cs"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
+            "dependencies": [
+                "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml"
+            ]
+        },
+        {
+            "asset": "Assets/Fonts/Indico SDF.asset",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/Fonts/Indico SDF.asset",
+                "Packages/com.unity.ugui/Runtime/TMP/TMP_FontAsset.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Hand",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Hand"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/buildTransitive",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/buildTransitive"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Cards/Pile.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Cards/Pile.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Shared/Generated",
+            "dependencies": [
+                "Assets/Scripts/Shared/Generated"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/buildTransitive/netcoreapp2.0",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/buildTransitive/netcoreapp2.0"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Materials/Shirt.mat",
+            "dependencies": [
+                "Assets/AddressableAssets/Materials/Shirt.mat",
+                "Assets/AddressableAssets/Textures/card_shirt.png",
+                "Assets/AddressableAssets/Shaders/Unlit.shader"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Shared/Structs/Socket.cs",
+            "dependencies": [
+                "Assets/Scripts/Shared/Structs/Socket.cs"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/DataBuilders",
+            "dependencies": [
+                "Assets/AddressableAssetsData/DataBuilders"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Ticker.cs",
+            "dependencies": [
+                "Assets/Scripts/Ticker.cs"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_BundledAssetGroupSchema.asset",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedPlayMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Core.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Levels.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/BundledAssetGroupSchema.cs",
+                "Assets/AddressableAssetsData/AssetGroups/UI.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroup.cs",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/ContentUpdateGroupSchema.cs",
+                "Assets/AddressableAssetsData/AddressableAssetSettings.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetSettings.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptFastMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Environment.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroupTemplate.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Characters.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_ContentUpdateGroupSchema.asset",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedPlayMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Core.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/UI.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Levels.asset",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/BundledAssetGroupSchema.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroup.cs",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/ContentUpdateGroupSchema.cs",
+                "Assets/AddressableAssetsData/AddressableAssetSettings.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetSettings.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptFastMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Environment.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroupTemplate.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Characters.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/R3.1.3.0/R3.nuspec",
+            "dependencies": [
+                "Assets/Packages/R3.1.3.0/R3.nuspec"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroups/UI.asset",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedPlayMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Core.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/UI.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Levels.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/BundledAssetGroupSchema.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroup.cs",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/ContentUpdateGroupSchema.cs",
+                "Assets/AddressableAssetsData/AddressableAssetSettings.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetSettings.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptFastMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Environment.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroupTemplate.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Characters.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_ContentUpdateGroupSchema.asset",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedPlayMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Core.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/UI.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Levels.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/BundledAssetGroupSchema.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroup.cs",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/ContentUpdateGroupSchema.cs",
+                "Assets/AddressableAssetsData/AddressableAssetSettings.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetSettings.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptFastMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Environment.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroupTemplate.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Characters.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Resources/Fonts & Materials",
+            "dependencies": [
+                "Assets/TextMesh Pro/Resources/Fonts & Materials"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_BundledAssetGroupSchema.asset",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedPlayMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Core.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/UI.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Levels.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/BundledAssetGroupSchema.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroup.cs",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/ContentUpdateGroupSchema.cs",
+                "Assets/AddressableAssetsData/AddressableAssetSettings.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetSettings.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptFastMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Environment.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroupTemplate.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Characters.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Flow/Judge.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Flow/Judge.cs"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Prefabs/Card.prefab",
+            "dependencies": [
+                "Assets/AddressableAssets/Materials/Shirt.mat",
+                "Assets/AddressableAssets/Textures/card_shirt.png",
+                "Assets/AddressableAssets/Shaders/Unlit.shader",
+                "Assets/AddressableAssets/Textures/units.png",
+                "Assets/AddressableAssets/Models/card.fbx",
+                "Assets/AddressableAssets/Materials/Unit.mat",
+                "Assets/AddressableAssets/Prefabs/Card.prefab",
+                "Assets/Scripts/Game/Battle/Cards/CardPrefab.cs"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Cards",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Cards"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/lib",
+            "dependencies": [
+                "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/lib"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Menu/UI/MenuUI.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Menu/UI/MenuUI.cs"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Fonts/LiberationSans.ttf",
+            "dependencies": [
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Prefabs",
+            "dependencies": [
+                "Assets/AddressableAssets/Prefabs"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets",
+            "dependencies": [
+                "Assets/AddressableAssets"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/BattleScope.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/BattleScope.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Prefabs/DevOverlay.prefab",
+            "dependencies": [
+                "Assets/Prefabs/DevOverlay.prefab"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Resources",
+            "dependencies": [
+                "Assets/TextMesh Pro/Resources"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/buildTransitive/net461",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/buildTransitive/net461"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.ComponentModel.Annotations.5.0.0/Icon.png",
+            "dependencies": [
+                "Assets/Packages/System.ComponentModel.Annotations.5.0.0/Icon.png"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/Microsoft.Bcl.TimeProvider.nuspec",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/Microsoft.Bcl.TimeProvider.nuspec"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/buildTransitive/netcoreapp2.0",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/buildTransitive/netcoreapp2.0"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Shared/Gizmos/BattleGizmos.cs",
+            "dependencies": [
+                "Assets/Scripts/Shared/Gizmos/BattleGizmos.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/R3.1.3.0/lib/netstandard2.1",
+            "dependencies": [
+                "Assets/Packages/R3.1.3.0/lib/netstandard2.1"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.ComponentModel.Annotations.5.0.0/lib/netstandard2.1/System.ComponentModel.Annotations.dll",
+            "dependencies": [
+                "Assets/Packages/System.ComponentModel.Annotations.5.0.0/lib/netstandard2.1/System.ComponentModel.Annotations.dll"
+            ]
+        },
+        {
+            "asset": "Assets/Fonts/Indico.otf",
+            "dependencies": [
+                "Assets/Fonts/Indico.otf"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset",
+            "dependencies": [
+                "Assets/TextMesh Pro/Sprites/EmojiOne.png",
+                "Packages/com.unity.ugui/Runtime/TMP/TMP_SpriteAsset.cs",
+                "Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset",
+                "Assets/TextMesh Pro/Shaders/TMP_Sprite.shader",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Sprite Asset Icon.psd"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.xml",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.xml"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/R3.1.3.0/lib",
+            "dependencies": [
+                "Assets/Packages/R3.1.3.0/lib"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset",
+            "dependencies": [
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedPlayMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Board/Board.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Board/Board.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.ComponentModel.Annotations.5.0.0/lib/netstandard2.1/System.ComponentModel.Annotations.xml",
+            "dependencies": [
+                "Assets/Packages/System.ComponentModel.Annotations.5.0.0/lib/netstandard2.1/System.ComponentModel.Annotations.xml"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.ComponentModel.Annotations.5.0.0/lib/netstandard2.1",
+            "dependencies": [
+                "Assets/Packages/System.ComponentModel.Annotations.5.0.0/lib/netstandard2.1"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts",
+            "dependencies": [
+                "Assets/Scripts"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Prefabs/Layout.prefab",
+            "dependencies": [
+                "Assets/AddressableAssets/Prefabs/Layout.prefab"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/buildTransitive/net6.0",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/buildTransitive/net6.0"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.ComponentModel.Annotations.5.0.0/LICENSE.TXT",
+            "dependencies": [
+                "Assets/Packages/System.ComponentModel.Annotations.5.0.0/LICENSE.TXT"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Shared/Extensions/ListExtensions.cs",
+            "dependencies": [
+                "Assets/Scripts/Shared/Extensions/ListExtensions.cs"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroups/Core.asset",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedPlayMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Core.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/UI.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Levels.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/BundledAssetGroupSchema.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroup.cs",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/ContentUpdateGroupSchema.cs",
+                "Assets/AddressableAssetsData/AddressableAssetSettings.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetSettings.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptFastMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Environment.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroupTemplate.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Characters.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader"
+            ]
+        },
+        {
+            "asset": "Assets/Sprites/frame.png",
+            "dependencies": [
+                "Assets/Sprites/frame.png"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Prefabs/Battler 1.prefab",
+            "dependencies": [
+                "Assets/AddressableAssets/Prefabs/Battler 1.prefab"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/buildTransitive/net462",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/buildTransitive/net462"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Shaders",
+            "dependencies": [
+                "Assets/AddressableAssets/Shaders"
+            ]
+        },
+        {
+            "asset": "Assets/packages.config",
+            "dependencies": [
+                "Assets/packages.config"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AddressableAssetSettings.asset",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedPlayMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Core.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/UI.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Levels.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/BundledAssetGroupSchema.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroupTemplate.cs",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/ContentUpdateGroupSchema.cs",
+                "Assets/AddressableAssetsData/AddressableAssetSettings.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetSettings.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptFastMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Environment.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroup.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Characters.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/LICENSE.TXT",
+            "dependencies": [
+                "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/LICENSE.TXT"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_ContentUpdateGroupSchema.asset",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedPlayMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Core.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/UI.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Levels.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/BundledAssetGroupSchema.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroup.cs",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/ContentUpdateGroupSchema.cs",
+                "Assets/AddressableAssetsData/AddressableAssetSettings.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetSettings.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptFastMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Environment.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroupTemplate.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Characters.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro",
+            "dependencies": [
+                "Assets/TextMesh Pro"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/GameScope.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/GameScope.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Battler/Player.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Battler/Player.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/UI/BattleResultPanel.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/UI/BattleResultPanel.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Board/BoardView.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Board/BoardView.cs"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Models",
+            "dependencies": [
+                "Assets/AddressableAssets/Models"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/PACKAGE.md",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/PACKAGE.md"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0"
+            ]
+        },
+        {
+            "asset": "Assets/Prefabs/GameLifetimeScope.prefab",
+            "dependencies": [
+                "Assets/Prefabs/GameLifetimeScope.prefab",
+                "Assets/Scripts/Game/GameScope.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Shared/Gizmos",
+            "dependencies": [
+                "Assets/Scripts/Shared/Gizmos"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Shared/Enum/BattleTypes.cs",
+            "dependencies": [
+                "Assets/Scripts/Shared/Enum/BattleTypes.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/buildTransitive/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.targets",
+            "dependencies": [
+                "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/buildTransitive/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.targets"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_BundledAssetGroupSchema.asset",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedPlayMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Core.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/UI.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Levels.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/BundledAssetGroupSchema.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroup.cs",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/ContentUpdateGroupSchema.cs",
+                "Assets/AddressableAssetsData/AddressableAssetSettings.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetSettings.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptFastMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Environment.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroupTemplate.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Characters.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Shared",
+            "dependencies": [
+                "Assets/Scripts/Shared"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Models/table.fbx",
+            "dependencies": [
+                "Assets/AddressableAssets/Materials/Table.mat",
+                "Assets/AddressableAssets/Textures/table.png",
+                "Assets/AddressableAssets/Models/table.fbx",
+                "Assets/AddressableAssets/Shaders/Unlit.shader"
+            ]
+        },
+        {
+            "asset": "Assets/AddressablesReport/AddressablesAudit_20251117_182432.json",
+            "dependencies": [
+                "Assets/AddressablesReport/AddressablesAudit_20251117_182432.json"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Battler",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Battler"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData",
+            "dependencies": [
+                "Assets/AddressableAssetsData"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.ComponentModel.Annotations.5.0.0/useSharedDesignerContext.txt",
+            "dependencies": [
+                "Assets/Packages/System.ComponentModel.Annotations.5.0.0/useSharedDesignerContext.txt"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroups/Schemas",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups/Schemas"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroups",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Framework/Services/Input/InputService.cs",
+            "dependencies": [
+                "Assets/Scripts/Framework/Services/Input/InputService.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.ComponentModel.Annotations.5.0.0",
+            "dependencies": [
+                "Assets/Packages/System.ComponentModel.Annotations.5.0.0"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/lib/netstandard2.0",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/lib/netstandard2.0"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0",
+            "dependencies": [
+                "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat",
+            "dependencies": [
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Packages/com.unity.ugui/Runtime/TMP/TMP_FontAsset.cs",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/lib",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/lib"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Board",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Board"
+            ]
+        },
+        {
+            "asset": "Assets/Scenes/Boot.unity",
+            "dependencies": [
+                "Assets/Scenes/Boot.unity"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Menu/UI",
+            "dependencies": [
+                "Assets/Scripts/Game/Menu/UI"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/THIRD-PARTY-NOTICES.TXT",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/THIRD-PARTY-NOTICES.TXT"
+            ]
+        },
+        {
+            "asset": "Assets/InputControls.inputactions",
+            "dependencies": [
+                "Packages/com.unity.inputsystem/InputSystem/Actions/InputActionAsset.cs",
+                "Packages/com.unity.inputsystem/InputSystem/Editor/AssetImporter/InputActionImporter.cs",
+                "Assets/InputControls.inputactions",
+                "Packages/com.unity.inputsystem/InputSystem/Actions/InputActionReference.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/lib/netstandard2.0/Microsoft.Bcl.TimeProvider.dll",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/lib/netstandard2.0/Microsoft.Bcl.TimeProvider.dll"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt",
+            "dependencies": [
+                "Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/buildTransitive/netcoreapp2.0",
+            "dependencies": [
+                "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/buildTransitive/netcoreapp2.0"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Board/BoardSideView.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Board/BoardSideView.cs"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/buildTransitive/net6.0",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/buildTransitive/net6.0"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Textures/table.png",
+            "dependencies": [
+                "Assets/AddressableAssets/Textures/table.png"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Framework/Services/Input",
+            "dependencies": [
+                "Assets/Scripts/Framework/Services/Input"
+            ]
+        },
+        {
+            "asset": "Assets/Scenes/Battle.unity",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/UI/BattleUI.cs",
+                "Assets/AddressableAssets/Materials/Table.mat",
+                "Packages/com.unity.inputsystem/InputSystem/Actions/InputActionAsset.cs",
+                "Assets/AddressableAssets/Materials/Shirt.mat",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+                "Assets/AddressableAssets/Textures/table.png",
+                "Assets/Scenes/Battle.unity",
+                "Assets/AddressableAssets/Textures/card_shirt.png",
+                "Packages/com.unity.inputsystem/InputSystem/Editor/Icons/InputSystemUIInputModule@64.png",
+                "Packages/com.unity.inputsystem/InputSystem/Editor/AssetImporter/InputActionImporter.cs",
+                "Assets/Scripts/Game/Battle/BattleScope.cs",
+                "Packages/com.unity.ugui/Runtime/UGUI/UI/Core/Layout/CanvasScaler.cs",
+                "Assets/Sprites/atlas-battle.png",
+                "Assets/Sprites/frame.png",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Packages/com.unity.ugui/Runtime/TMP/TextMeshProUGUI.cs",
+                "Assets/Fonts/Indico SDF.asset",
+                "Assets/AddressableAssets/Models/table.fbx",
+                "Assets/Sprites/background_battle.png",
+                "Packages/com.unity.ugui/Runtime/UGUI/UI/Core/GraphicRaycaster.cs",
+                "Packages/com.unity.ugui/Runtime/UGUI/UI/Core/Button.cs",
+                "Assets/AddressableAssets/Shaders/Unlit.shader",
+                "Assets/AddressableAssets/Textures/units.png",
+                "Packages/com.unity.ugui/Runtime/UGUI/EventSystem/EventSystem.cs",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd",
+                "Assets/Scripts/Game/Battle/Board/BoardView.cs",
+                "Assets/AddressableAssets/Models/card.fbx",
+                "Assets/Scripts/Game/Battle/UI/BattleScorePanel.cs",
+                "Packages/com.unity.ugui/Runtime/UGUI/UI/Core/Image.cs",
+                "Assets/AddressableAssets/Prefabs/Battler 1.prefab",
+                "Assets/AddressableAssets/Prefabs/Card.prefab",
+                "Packages/com.unity.inputsystem/InputSystem/Plugins/UI/InputSystemUIInputModule.cs",
+                "Assets/AddressableAssets/Materials/Unit.mat",
+                "Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions",
+                "Packages/com.unity.ugui/Runtime/TMP/TMP_FontAsset.cs",
+                "Packages/com.unity.inputsystem/InputSystem/Actions/InputActionReference.cs",
+                "Assets/Scripts/Game/Battle/Cards/CardPrefab.cs",
+                "Packages/com.unity.ugui/Runtime/UGUI/EventSystem/Raycasters/PhysicsRaycaster.cs",
+                "Assets/Scripts/Game/Battle/UI/BattleResultPanel.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Menu",
+            "dependencies": [
+                "Assets/Scripts/Game/Menu"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/R3.1.3.0/Icon.png",
+            "dependencies": [
+                "Assets/Packages/R3.1.3.0/Icon.png"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game",
+            "dependencies": [
+                "Assets/Scripts/Game"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt",
+            "dependencies": [
+                "Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/Icon.png",
+            "dependencies": [
+                "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/Icon.png"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Models/card.fbx",
+            "dependencies": [
+                "Assets/AddressableAssets/Materials/Shirt.mat",
+                "Assets/AddressableAssets/Textures/card_shirt.png",
+                "Assets/AddressableAssets/Shaders/Unlit.shader",
+                "Assets/AddressableAssets/Textures/units.png",
+                "Assets/AddressableAssets/Models/card.fbx",
+                "Assets/AddressableAssets/Materials/Unit.mat"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/buildTransitive",
+            "dependencies": [
+                "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/buildTransitive"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.ComponentModel.Annotations.5.0.0/lib",
+            "dependencies": [
+                "Assets/Packages/System.ComponentModel.Annotations.5.0.0/lib"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Editor/ScenesCodegen.cs",
+            "dependencies": [
+                "Assets/Scripts/Editor/ScenesCodegen.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Cards/CardPrefab.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Cards/CardPrefab.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Framework",
+            "dependencies": [
+                "Assets/Scripts/Framework"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.ComponentModel.Annotations.5.0.0/THIRD-PARTY-NOTICES.TXT",
+            "dependencies": [
+                "Assets/Packages/System.ComponentModel.Annotations.5.0.0/THIRD-PARTY-NOTICES.TXT"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Flow",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Flow"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat",
+            "dependencies": [
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat",
+                "Packages/com.unity.ugui/Runtime/TMP/TMP_FontAsset.cs",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/useSharedDesignerContext.txt",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/useSharedDesignerContext.txt"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/UI",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/UI"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc"
+            ]
+        },
+        {
+            "asset": "Assets/Sprites/background_menu.png",
+            "dependencies": [
+                "Assets/Sprites/background_menu.png"
+            ]
+        },
+        {
+            "asset": "Assets/AddressablesReport",
+            "dependencies": [
+                "Assets/AddressablesReport"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset",
+            "dependencies": [
+                "Packages/com.unity.ugui/Runtime/TMP/TMP_StyleSheet.cs",
+                "Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/LICENSE.TXT",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/LICENSE.TXT"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Shared/Extensions",
+            "dependencies": [
+                "Assets/Scripts/Shared/Extensions"
+            ]
+        },
+        {
+            "asset": "Assets/Fonts",
+            "dependencies": [
+                "Assets/Fonts"
+            ]
+        },
+        {
+            "asset": "Assets/Sprites/atlas-menu.png",
+            "dependencies": [
+                "Assets/Sprites/atlas-menu.png"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroups/Levels.asset",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedPlayMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Core.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Levels.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/BundledAssetGroupSchema.cs",
+                "Assets/AddressableAssetsData/AssetGroups/UI.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroup.cs",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/ContentUpdateGroupSchema.cs",
+                "Assets/AddressableAssetsData/AddressableAssetSettings.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetSettings.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptFastMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Environment.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroupTemplate.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Characters.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedPlayMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Core.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/UI.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Levels.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/BundledAssetGroupSchema.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroupTemplate.cs",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/ContentUpdateGroupSchema.cs",
+                "Assets/AddressableAssetsData/AddressableAssetSettings.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetSettings.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptFastMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Environment.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroup.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Characters.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Resources/Style Sheets",
+            "dependencies": [
+                "Assets/TextMesh Pro/Resources/Style Sheets"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Fonts",
+            "dependencies": [
+                "Assets/TextMesh Pro/Fonts"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/ProfileDataSourceSettings.asset",
+            "dependencies": [
+                "Packages/com.unity.addressables/Editor/Settings/ProfileDataSourceSettings.cs",
+                "Assets/AddressableAssetsData/ProfileDataSourceSettings.asset"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+            "dependencies": [
+                "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Framework/Services/Adressables/AddressablesService.cs",
+            "dependencies": [
+                "Assets/Scripts/Framework/Services/Adressables/AddressablesService.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/lib/netstandard2.1/System.Threading.Channels.dll",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/lib/netstandard2.1/System.Threading.Channels.dll"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/R3.1.3.0",
+            "dependencies": [
+                "Assets/Packages/R3.1.3.0"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/DefaultObject.asset",
+            "dependencies": [
+                "Packages/com.unity.addressables/Editor/AddressableAssetSettingsDefaultObject.cs",
+                "Assets/AddressableAssetsData/DefaultObject.asset"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Materials/Unit.mat",
+            "dependencies": [
+                "Assets/AddressableAssets/Shaders/Unlit.shader",
+                "Assets/AddressableAssets/Textures/units.png",
+                "Assets/AddressableAssets/Materials/Unit.mat"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/buildTransitive/net6.0/_._",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/buildTransitive/net6.0/_._"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt",
+            "dependencies": [
+                "Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt"
+            ]
+        },
+        {
+            "asset": "Assets/Prefabs",
+            "dependencies": [
+                "Assets/Prefabs"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Textures/card_shirt.png",
+            "dependencies": [
+                "Assets/AddressableAssets/Textures/card_shirt.png"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/lib/netstandard2.1/System.Threading.Channels.xml",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/lib/netstandard2.1/System.Threading.Channels.xml"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Hand/Hand.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Hand/Hand.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Menu/MenuScope.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Menu/MenuScope.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/lib",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/lib"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Editor",
+            "dependencies": [
+                "Assets/Scripts/Editor"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_ContentUpdateGroupSchema.asset",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedPlayMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Core.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Levels.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/BundledAssetGroupSchema.cs",
+                "Assets/AddressableAssetsData/AssetGroups/UI.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroup.cs",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/ContentUpdateGroupSchema.cs",
+                "Assets/AddressableAssetsData/AddressableAssetSettings.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetSettings.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptFastMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Environment.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroupTemplate.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Characters.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/THIRD-PARTY-NOTICES.TXT",
+            "dependencies": [
+                "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/THIRD-PARTY-NOTICES.TXT"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Shared/Utils/UVMap.cs",
+            "dependencies": [
+                "Assets/Scripts/Shared/Utils/UVMap.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/buildTransitive/net461/Microsoft.Bcl.TimeProvider.targets",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/buildTransitive/net461/Microsoft.Bcl.TimeProvider.targets"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AddressableAssetGroupSortSettings.asset",
+            "dependencies": [
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/AddressableAssetGroupSortSettings.cs",
+                "Assets/AddressableAssetsData/AddressableAssetGroupSortSettings.asset"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/Icon.png",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/Icon.png"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Shared/Enum/CardType.cs",
+            "dependencies": [
+                "Assets/Scripts/Shared/Enum/CardType.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Shared/Structs",
+            "dependencies": [
+                "Assets/Scripts/Shared/Structs"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Flow/BattleEntryPoint.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Flow/BattleEntryPoint.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Cards/Card.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Cards/Card.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/useSharedDesignerContext.txt",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/useSharedDesignerContext.txt"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Framework/Services/Adressables",
+            "dependencies": [
+                "Assets/Scripts/Framework/Services/Adressables"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroups/Characters.asset",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedPlayMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Core.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/UI.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Levels.asset",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/BundledAssetGroupSchema.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroup.cs",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/ContentUpdateGroupSchema.cs",
+                "Assets/AddressableAssetsData/AddressableAssetSettings.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetSettings.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptFastMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Environment.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroupTemplate.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Characters.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/NuGet.config",
+            "dependencies": [
+                "Assets/NuGet.config"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/R3.1.3.0/lib/netstandard2.1/R3.dll",
+            "dependencies": [
+                "Assets/Packages/R3.1.3.0/lib/netstandard2.1/R3.dll"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/lib/netstandard2.1",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/lib/netstandard2.1"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/buildTransitive/net6.0/_._",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/buildTransitive/net6.0/_._"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Shaders/Unlit.shader",
+            "dependencies": [
+                "Assets/AddressableAssets/Shaders/Unlit.shader"
+            ]
+        },
+        {
+            "asset": "Assets/Scenes",
+            "dependencies": [
+                "Assets/Scenes"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Cards/Deck.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Cards/Deck.cs"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader"
+            ]
+        },
+        {
+            "asset": "Assets/Packages",
+            "dependencies": [
+                "Assets/Packages"
+            ]
+        },
+        {
+            "asset": "Assets/VContainerSettings.asset",
+            "dependencies": [
+                "Assets/Prefabs/GameLifetimeScope.prefab",
+                "Assets/Scripts/Game/GameScope.cs",
+                "Assets/VContainerSettings.asset",
+                "Packages/jp.hadashikick.vcontainer/Runtime/Unity/VContainerSettings.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/lib/netstandard2.0",
+            "dependencies": [
+                "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/lib/netstandard2.0"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/UI/BattleUI.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/UI/BattleUI.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/THIRD-PARTY-NOTICES.TXT",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/THIRD-PARTY-NOTICES.TXT"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/Microsoft.Bcl.AsyncInterfaces.nuspec",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/Microsoft.Bcl.AsyncInterfaces.nuspec"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/buildTransitive/net461/System.Threading.Channels.targets",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/buildTransitive/net461/System.Threading.Channels.targets"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/buildTransitive/net462",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/buildTransitive/net462"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_BundledAssetGroupSchema.asset",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedPlayMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Core.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/UI.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Levels.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/BundledAssetGroupSchema.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroup.cs",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/ContentUpdateGroupSchema.cs",
+                "Assets/AddressableAssetsData/AddressableAssetSettings.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetSettings.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptFastMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Environment.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroupTemplate.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Characters.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/System.Threading.Channels.nuspec",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/System.Threading.Channels.nuspec"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.ComponentModel.Annotations.5.0.0/System.ComponentModel.Annotations.nuspec",
+            "dependencies": [
+                "Assets/Packages/System.ComponentModel.Annotations.5.0.0/System.ComponentModel.Annotations.nuspec"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Materials",
+            "dependencies": [
+                "Assets/AddressableAssets/Materials"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Shared/Enum",
+            "dependencies": [
+                "Assets/Scripts/Shared/Enum"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Shared/Generated/CardInfo.cs",
+            "dependencies": [
+                "Assets/Scripts/Shared/Generated/CardInfo.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Editor/AddressablesDependencies.cs",
+            "dependencies": [
+                "Assets/Scripts/Editor/AddressablesDependencies.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/lib/netstandard2.1",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/lib/netstandard2.1"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/UI/BattleScorePanel.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/UI/BattleScorePanel.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/Icon.png",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/Icon.png"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+            "dependencies": [
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Packages/com.unity.ugui/Runtime/TMP/TMP_FontAsset.cs",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Flow/Orchestrator.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Flow/Orchestrator.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Editor/AddressablesDuplicates.cs",
+            "dependencies": [
+                "Assets/Scripts/Editor/AddressablesDuplicates.cs"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.ComponentModel.Annotations.5.0.0/version.txt",
+            "dependencies": [
+                "Assets/Packages/System.ComponentModel.Annotations.5.0.0/version.txt"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/buildTransitive/netcoreapp2.0/System.Threading.Channels.targets",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/buildTransitive/netcoreapp2.0/System.Threading.Channels.targets"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt",
+            "dependencies": [
+                "Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/buildTransitive",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/buildTransitive"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/lib",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/lib"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/LICENSE.TXT",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.TimeProvider.8.0.0/LICENSE.TXT"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/useSharedDesignerContext.txt",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/useSharedDesignerContext.txt"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroupTemplates",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroupTemplates"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/Icon.png",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/Icon.png"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/LICENSE.TXT",
+            "dependencies": [
+                "Assets/Packages/Microsoft.Bcl.AsyncInterfaces.6.0.0/LICENSE.TXT"
+            ]
+        },
+        {
+            "asset": "Assets/Sprites",
+            "dependencies": [
+                "Assets/Sprites"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Threading.Channels.8.0.0/buildTransitive/net461",
+            "dependencies": [
+                "Assets/Packages/System.Threading.Channels.8.0.0/buildTransitive/net461"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Resources/TMP Settings.asset",
+            "dependencies": [
+                "Assets/TextMesh Pro/Sprites/EmojiOne.png",
+                "Packages/com.unity.ugui/Runtime/TMP/TMP_Settings.cs",
+                "Packages/com.unity.ugui/Runtime/TMP/TMP_SpriteAsset.cs",
+                "Packages/com.unity.ugui/Runtime/TMP/TMP_StyleSheet.cs",
+                "Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset",
+                "Assets/TextMesh Pro/Resources/TMP Settings.asset",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_Sprite.shader",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Packages/com.unity.ugui/Runtime/TMP/TMP_FontAsset.cs",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Sprite Asset Icon.psd",
+                "Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset",
+                "Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt",
+                "Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Shared/Utils",
+            "dependencies": [
+                "Assets/Scripts/Shared/Utils"
+            ]
+        },
+        {
+            "asset": "Assets/Scripts/Game/Battle/Battler/Opponent.cs",
+            "dependencies": [
+                "Assets/Scripts/Game/Battle/Battler/Opponent.cs"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Sprites/EmojiOne.json",
+            "dependencies": [
+                "Assets/TextMesh Pro/Sprites/EmojiOne.json"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_BundledAssetGroupSchema.asset",
+            "dependencies": [
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroupTemplates/Packed Assets.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedPlayMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Core.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/UI.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Levels.asset",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/BundledAssetGroupSchema.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Core_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Levels_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Characters_BundledAssetGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_ContentUpdateGroupSchema.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/Environment_ContentUpdateGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroup.cs",
+                "Packages/com.unity.addressables/Editor/Settings/GroupSchemas/ContentUpdateGroupSchema.cs",
+                "Assets/AddressableAssetsData/AddressableAssetSettings.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetSettings.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptFastMode.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptFastMode.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Environment.asset",
+                "Assets/AddressableAssetsData/AssetGroups/Schemas/UI_BundledAssetGroupSchema.asset",
+                "Packages/com.unity.addressables/Editor/Settings/AddressableAssetGroupTemplate.cs",
+                "Assets/AddressableAssetsData/AssetGroups/Characters.asset",
+                "Packages/com.unity.addressables/Editor/Build/DataBuilders/BuildScriptPackedMode.cs",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedMode.asset",
+                "Assets/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+            "dependencies": [
+                "Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd",
+                "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+                "Packages/com.unity.ugui/Runtime/TMP/TMP_FontAsset.cs",
+                "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+                "Assets/TextMesh Pro/Fonts/LiberationSans.ttf"
+            ]
+        },
+        {
+            "asset": "Assets/Scenes/Menu.unity",
+            "dependencies": [
+                "Assets/Scripts/Game/Menu/UI/MenuUI.cs",
+                "Packages/com.unity.inputsystem/InputSystem/Actions/InputActionAsset.cs",
+                "Packages/com.unity.inputsystem/InputSystem/Editor/Icons/InputSystemUIInputModule@64.png",
+                "Packages/com.unity.inputsystem/InputSystem/Editor/AssetImporter/InputActionImporter.cs",
+                "Assets/Scripts/Game/Menu/MenuScope.cs",
+                "Packages/com.unity.ugui/Runtime/UGUI/UI/Core/Layout/CanvasScaler.cs",
+                "Assets/Scenes/Menu.unity",
+                "Packages/com.unity.ugui/Runtime/UGUI/UI/Core/GraphicRaycaster.cs",
+                "Packages/com.unity.ugui/Runtime/UGUI/UI/Core/Button.cs",
+                "Packages/com.unity.ugui/Runtime/UGUI/EventSystem/EventSystem.cs",
+                "Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions",
+                "Packages/com.unity.ugui/Runtime/UGUI/UI/Core/Image.cs",
+                "Packages/com.unity.inputsystem/InputSystem/Actions/InputActionReference.cs",
+                "Packages/com.unity.inputsystem/InputSystem/Plugins/UI/InputSystemUIInputModule.cs",
+                "Assets/Sprites/background_menu.png",
+                "Assets/Sprites/atlas-menu.png"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Shaders/TMP_Sprite.shader",
+            "dependencies": [
+                "Assets/TextMesh Pro/Shaders/TMP_Sprite.shader"
+            ]
+        },
+        {
+            "asset": "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/System.Runtime.CompilerServices.Unsafe.nuspec",
+            "dependencies": [
+                "Assets/Packages/System.Runtime.CompilerServices.Unsafe.6.0.0/System.Runtime.CompilerServices.Unsafe.nuspec"
+            ]
+        },
+        {
+            "asset": "Assets/TextMesh Pro/Sprites/EmojiOne.png",
+            "dependencies": [
+                "Assets/TextMesh Pro/Sprites/EmojiOne.png"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Textures/units.png",
+            "dependencies": [
+                "Assets/AddressableAssets/Textures/units.png"
+            ]
+        }
+    ]
+}

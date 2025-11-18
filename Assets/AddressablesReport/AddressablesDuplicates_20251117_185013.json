@@ -1,0 +1,193 @@
+{
+    "generatedAt": "2025-11-17 18:50:13",
+    "duplicates": [
+        {
+            "asset": "Assets/AddressableAssets/Sprites/atlas-battle.png",
+            "usedBy": [
+                "Assets/AddressableAssets/Sprites/atlas-battle.png",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Sprites/bg-battle.png",
+            "usedBy": [
+                "Assets/AddressableAssets/Sprites/bg-battle.png",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Sprites/frame-score.png",
+            "usedBy": [
+                "Assets/AddressableAssets/Sprites/frame-score.png",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Textures/TableTexture.png",
+            "usedBy": [
+                "Assets/AddressableAssets/Textures/TableTexture.png",
+                "Assets/AddressableAssets/Models/TableModel.fbx",
+                "Assets/AddressableAssets/Materials/TableMaterial.mat",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Textures/CardShirtTexture.png",
+            "usedBy": [
+                "Assets/AddressableAssets/Textures/CardShirtTexture.png",
+                "Assets/AddressableAssets/Models/CardModel.fbx",
+                "Assets/AddressableAssets/Materials/CardShirtMaterial.mat",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Textures/CardUnitsTexture.png",
+            "usedBy": [
+                "Assets/AddressableAssets/Textures/CardUnitsTexture.png",
+                "Assets/AddressableAssets/Models/CardModel.fbx",
+                "Assets/AddressableAssets/Materials/CardUnitsMaterial.mat",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Materials/CardShirtMaterial.mat",
+            "usedBy": [
+                "Assets/AddressableAssets/Models/CardModel.fbx",
+                "Assets/AddressableAssets/Materials/CardShirtMaterial.mat",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Shaders/Unlit.shader",
+            "usedBy": [
+                "Assets/AddressableAssets/Models/CardModel.fbx",
+                "Assets/AddressableAssets/Models/TableModel.fbx",
+                "Assets/AddressableAssets/Materials/CardShirtMaterial.mat",
+                "Assets/AddressableAssets/Materials/TableMaterial.mat",
+                "Assets/AddressableAssets/Materials/CardUnitsMaterial.mat",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Models/CardModel.fbx",
+            "usedBy": [
+                "Assets/AddressableAssets/Models/CardModel.fbx",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Materials/CardUnitsMaterial.mat",
+            "usedBy": [
+                "Assets/AddressableAssets/Models/CardModel.fbx",
+                "Assets/AddressableAssets/Materials/CardUnitsMaterial.mat",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Materials/TableMaterial.mat",
+            "usedBy": [
+                "Assets/AddressableAssets/Models/TableModel.fbx",
+                "Assets/AddressableAssets/Materials/TableMaterial.mat",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Models/TableModel.fbx",
+            "usedBy": [
+                "Assets/AddressableAssets/Models/TableModel.fbx",
+                "Assets/Scenes/Battle.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.inputsystem/InputSystem/Actions/InputActionAsset.cs",
+            "usedBy": [
+                "Assets/Scenes/Battle.unity",
+                "Assets/Scenes/Menu.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.inputsystem/InputSystem/Editor/Icons/InputSystemUIInputModule@64.png",
+            "usedBy": [
+                "Assets/Scenes/Battle.unity",
+                "Assets/Scenes/Menu.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.inputsystem/InputSystem/Editor/AssetImporter/InputActionImporter.cs",
+            "usedBy": [
+                "Assets/Scenes/Battle.unity",
+                "Assets/Scenes/Menu.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.ugui/Runtime/UGUI/UI/Core/Layout/CanvasScaler.cs",
+            "usedBy": [
+                "Assets/Scenes/Battle.unity",
+                "Assets/Scenes/Menu.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.ugui/Runtime/UGUI/UI/Core/GraphicRaycaster.cs",
+            "usedBy": [
+                "Assets/Scenes/Battle.unity",
+                "Assets/Scenes/Menu.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.ugui/Runtime/UGUI/UI/Core/Button.cs",
+            "usedBy": [
+                "Assets/Scenes/Battle.unity",
+                "Assets/Scenes/Menu.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.ugui/Runtime/UGUI/EventSystem/EventSystem.cs",
+            "usedBy": [
+                "Assets/Scenes/Battle.unity",
+                "Assets/Scenes/Menu.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.ugui/Runtime/UGUI/UI/Core/Image.cs",
+            "usedBy": [
+                "Assets/Scenes/Battle.unity",
+                "Assets/Scenes/Menu.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.inputsystem/InputSystem/Plugins/UI/InputSystemUIInputModule.cs",
+            "usedBy": [
+                "Assets/Scenes/Battle.unity",
+                "Assets/Scenes/Menu.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions",
+            "usedBy": [
+                "Assets/Scenes/Battle.unity",
+                "Assets/Scenes/Menu.unity"
+            ]
+        },
+        {
+            "asset": "Packages/com.unity.inputsystem/InputSystem/Actions/InputActionReference.cs",
+            "usedBy": [
+                "Assets/Scenes/Battle.unity",
+                "Assets/Scenes/Menu.unity"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Sprites/bg-menu.png",
+            "usedBy": [
+                "Assets/Scenes/Menu.unity",
+                "Assets/AddressableAssets/Sprites/bg-menu.png"
+            ]
+        },
+        {
+            "asset": "Assets/AddressableAssets/Sprites/atlas-menu.png",
+            "usedBy": [
+                "Assets/Scenes/Menu.unity",
+                "Assets/AddressableAssets/Sprites/atlas-menu.png"
+            ]
+        }
+    ]
+}

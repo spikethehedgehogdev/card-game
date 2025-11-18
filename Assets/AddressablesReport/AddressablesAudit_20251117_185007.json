@@ -1,0 +1,116 @@
+{
+    "generatedAt": "2025-11-17 18:50:07",
+    "groups": [
+        {
+            "name": "BattleAssets",
+            "entries": [
+                {
+                    "path": "Assets/AddressableAssets/Sprites/atlas-battle.png",
+                    "key": "atlas-battle",
+                    "type": "Texture2D",
+                    "size": "1,7 MB"
+                },
+                {
+                    "path": "Assets/AddressableAssets/Sprites/bg-battle.png",
+                    "key": "bg_battle",
+                    "type": "Texture2D",
+                    "size": "1,8 MB"
+                },
+                {
+                    "path": "Assets/AddressableAssets/Sprites/frame-score.png",
+                    "key": "frame-score",
+                    "type": "Texture2D",
+                    "size": "521,3 KB"
+                },
+                {
+                    "path": "Assets/AddressableAssets/Textures/TableTexture.png",
+                    "key": "TableTexture",
+                    "type": "Texture2D",
+                    "size": "2,3 MB"
+                },
+                {
+                    "path": "Assets/AddressableAssets/Textures/CardShirtTexture.png",
+                    "key": "CardShirtTexture",
+                    "type": "Texture2D",
+                    "size": "1,8 MB"
+                },
+                {
+                    "path": "Assets/AddressableAssets/Textures/CardUnitsTexture.png",
+                    "key": "UnitsTexture",
+                    "type": "Texture2D",
+                    "size": "558,0 KB"
+                },
+                {
+                    "path": "Assets/AddressableAssets/Models/CardModel.fbx",
+                    "key": "CardModel",
+                    "type": "GameObject",
+                    "size": "22,6 KB"
+                },
+                {
+                    "path": "Assets/AddressableAssets/Models/TableModel.fbx",
+                    "key": "TableModel",
+                    "type": "GameObject",
+                    "size": "17,9 KB"
+                },
+                {
+                    "path": "Assets/AddressableAssets/Materials/CardShirtMaterial.mat",
+                    "key": "CardShirtMaterial",
+                    "type": "Material",
+                    "size": "2,2 KB"
+                },
+                {
+                    "path": "Assets/AddressableAssets/Materials/TableMaterial.mat",
+                    "key": "TableMaterial",
+                    "type": "Material",
+                    "size": "2,3 KB"
+                },
+                {
+                    "path": "Assets/AddressableAssets/Materials/CardUnitsMaterial.mat",
+                    "key": "CardUnitsMaterial",
+                    "type": "Material",
+                    "size": "2,2 KB"
+                }
+            ]
+        },
+        {
+            "name": "Scenes",
+            "entries": [
+                {
+                    "path": "Assets/Scenes/Battle.unity",
+                    "key": "Battle",
+                    "type": "SceneAsset",
+                    "size": "85,5 KB"
+                },
+                {
+                    "path": "Assets/Scenes/Boot.unity",
+                    "key": "Boot",
+                    "type": "SceneAsset",
+                    "size": "3,5 KB"
+                },
+                {
+                    "path": "Assets/Scenes/Menu.unity",
+                    "key": "Menu",
+                    "type": "SceneAsset",
+                    "size": "27,6 KB"
+                }
+            ]
+        },
+        {
+            "name": "MenuAssets",
+            "entries": [
+                {
+                    "path": "Assets/AddressableAssets/Sprites/atlas-menu.png",
+                    "key": "atlas-menu",
+                    "type": "Texture2D",
+                    "size": "1,7 MB"
+                },
+                {
+                    "path": "Assets/AddressableAssets/Sprites/bg-menu.png",
+                    "key": "bg_menu",
+                    "type": "Texture2D",
+                    "size": "2,3 MB"
+                }
+            ]
+        }
+    ]
+}
